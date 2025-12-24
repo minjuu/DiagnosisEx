@@ -1,0 +1,6 @@
+[
+  { "id": "1", "vehicleName": "IONIQ 5", "licensePlate": "12가 3456", "date": "2025.05.01", "status": "PREPARING", "type": "Basic" },
+  { "id": "2", "vehicleName": "GV60", "licensePlate": "99나 9999", "date": "2025.05.02", "status": "ANALYZING", "type": "Premium" },
+  { "id": "3", "vehicleName": "EV6", "licensePlate": "77호 7777", "date": "2025.05.03", "status": "ACTION_NEEDED", "type": "Basic" },
+  { "id": "4", "vehicleName": "Model Y", "licensePlate": "55오 5555", "date": "2025.05.04", "status": "COMPLETED", "type": "Premium" }
+]

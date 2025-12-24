@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DiagnosisEx
+
+  Created by LGRnD on 12/12/25.
+  
+*/
+
+"welcome_message" = "안녕하세요! 배터리 진단 테스트입니다.";
+"change_language" = "영어로 변경하기";
+"home_title" = "진단 결과";
+
+"filter_all" = "전체";
+"filter_basic" = "베이직";
+"filter_premium" = "프리미엄";
+
+"total_format" = "전체 %d건";

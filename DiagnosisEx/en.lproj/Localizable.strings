@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DiagnosisEx
+
+  Created by LGRnD on 12/12/25.
+  
+*/
+
+"welcome_message" = "Hello! This is a battery diagnosis test.";
+"change_language" = "Change to Korean";
+"home_title" = "Diagnosis Result";
+
+"filter_all" = "All";
+"filter_basic" = "Basic";
+"filter_premium" = "Premium";
+
+"total_format" = "Total %d";
